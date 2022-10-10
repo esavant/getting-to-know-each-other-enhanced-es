@@ -1,1 +1,2 @@
-# Hello World Azure Static Website Template
+# Edward Savant, Getting to Know Each Other Enhanced Web App
+## edwardmsavant@lewisu.edu
